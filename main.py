@@ -1,3 +1,5 @@
+# yes i'm a simp
+
 def superfunction():
     print("cthulhu summoned")
 
