@@ -1,7 +1,7 @@
 # yes i'm a simp
 
 def superfunction():
-    print("cthulhu summoned")
+    print("версия 0.02")
 
 def main():
     print("initial print")
